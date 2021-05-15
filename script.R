@@ -17,6 +17,10 @@ rstudioapi::navigateToFile("content/authors/admin/_index.md")
 ## para cambiar el theme
 rstudioapi::navigateToFile("config/_default/params.yaml")
 
+## para deactivar widgets
+active: false # en los .md
+rstudioapi::navigateToFile("config/_default/menus.yaml")
+
 ## para mantener los posts como borradores
 rstudioapi::navigateToFile("content/post/getting-started/index.md")
 draft:true # ahora no puedo porque ya lo borré
