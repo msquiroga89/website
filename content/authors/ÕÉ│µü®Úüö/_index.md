@@ -1,15 +1,15 @@
 ---
-bio: [under construction]
+bio:
 education:
   courses:
-  - [under construction]
+  - 
 email: ""
 interests:
-- [under construction]
+- 
 organizations:
 - name: 
   url: ""
-role: [under construction]
+role: 
 social:
 - icon: envelope
   icon_pack: fas
