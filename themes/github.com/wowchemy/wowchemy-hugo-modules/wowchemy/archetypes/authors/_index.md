@@ -10,29 +10,28 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Becaria doctoral
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: CIIPME-CONICET
+  url: http://www.ciipme-conicet.gov.ar/wordpress/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Psicolingüista (UBA) | Maestranda en Psicología Cognitiva y Aprendizaje (FLACSO) | Doctoranda en Educación (UBA) | Docente en UNaHur | Aprendiz de R
 
 # List each interest with a dash
 interests:
-- Interest 1
-- Interest 2
+- Lingüística
+- Análisis estadístico
+- Ciencia de datos
+- Storytelling
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - Licenciatura y Profesorado en Letras, orientación en Psico y Neurolingüística (Universidad de Buenos Aires)
+  - Maestría en Psicología Cognitiva y Aprendizaje (FLACSO) - en curso
+  - Doctorado en Ciencias de la Educación (UBA) - en curso
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -41,16 +40,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: /#contact
+- display:
+    header: true
+  icon: twitter
   icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  label: Follow me on Twitter
+  link: https://twitter.com/_msquiroga
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=ndhOd0gAAAAJ&hl=th
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/msquiroga89
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,7 +68,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Group 1
-- Group 2
+# user_groups:
+# - Group 1
+# - Group 2
 ---
