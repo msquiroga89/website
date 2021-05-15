@@ -1,5 +1,5 @@
 ---
-bio: Psicolingüista (UBA) | Maestranda en Psicología Cognitiva y Aprendizaje (FLACSO) | Doctoranda en Educación (UBA) | Docente en UNaHur | Aprendiz de R
+bio: Psicolingüista (UBA) Maestranda en Psicología Cognitiva y Aprendizaje (FLACSO) Doctoranda en Educación (UBA) Docente en UNaHur Aprendiz de R
 education:
   courses:
   - Licenciatura y Profesorado en Letras, orientación en Psico y Neurolingüística (Universidad de Buenos Aires)
@@ -8,7 +8,7 @@ education:
 email: ""
 highlight_name: false
 interests:
-- Lingüística
+- Linguística
 - Análisis estadístico
 - Ciencia de datos
 - Storytelling
