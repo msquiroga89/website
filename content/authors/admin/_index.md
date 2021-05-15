@@ -39,4 +39,4 @@ title: Macarena Quiroga
 
 Hola! Soy psicolingüista egresada de la Universidad de Buenos Aires (Argentina). Estoy escribiendo mi tesis de maestría en Psicología Cognitiva y Aprendizaje (FLACSO) y realizando mi investigación de doctorado en Educación. Soy profesora en la Universidad Nacional de Hurlingham. Estoy profundizando mis estudios en estadística y en ciencia de datos con R/Rstudio.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
